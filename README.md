@@ -29,6 +29,9 @@ The data set contains fifty instances of violent crime of different types across
 K-Means
 ## Core Analysis
 The data was studied well & found to have some missing cells. The missing cells were replaced with MICE(Multivariate Imputation by Chained Equations) method. After missing value replacement the attributes were visualized through scatter plots to derive some insights. The final step involved was building a clustering model with K-Means that helps to assign the instances to clusters chosen beforehand using proper method. The performance of the model was evaluated by observing the SSW(Sum of Squared Within) of each clusters. The entire experiment was conducted using both Azure modules & executing R Script.
+## Model
+
+![alt text]
 
 
 
